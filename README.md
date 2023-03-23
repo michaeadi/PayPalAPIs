@@ -2,12 +2,13 @@
 
 # PayPalAPIs
 PayPal Payment Services
-#Getting Started
+
+# Getting Started
 Step 1: Fork the collection using Run in Postman
 Step 2: Get your access token
 Step 3: Make your first API call
 
-#Folders
+# Folders
 Authorization
 Orders
 Payments
@@ -19,6 +20,6 @@ Shipment Tracking
 Transaction Search
 Disputes
 
-#Run Collection
+# Run Collection
 
-#Monitor COllection
+# Monitor COllection

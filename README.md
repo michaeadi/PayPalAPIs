@@ -4,7 +4,7 @@
 PayPal Payment Services
 
 # Getting Started
-Step 1: Fork the collection using Run in Postman
+Step 1: Fork the collection using Run in Postman\n
 Step 2: Get your access token
 Step 3: Make your first API call
 

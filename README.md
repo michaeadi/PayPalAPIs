@@ -12,14 +12,23 @@ Step 3: Make your first API call
 
 # Folders
 Authorization
+
 Orders
+
 Payments
+
 Invoices
+
 Subcription
+
 Payouts
+
 Webhooks
+
 Shipment Tracking
+
 Transaction Search
+
 Disputes
 
 # Run Collection
